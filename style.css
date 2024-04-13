@@ -78,6 +78,7 @@ body {
 
 .estudante-texto{
     text-align: justify;
+    padding: 10px;
 }
 .estudante-todos{
     display: grid;
