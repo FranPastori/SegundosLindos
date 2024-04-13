@@ -53,6 +53,7 @@ body {
 }
 .escola-texto1{
     padding: 10px;
+    text-align: justify;
 }
 
 #estudante{
